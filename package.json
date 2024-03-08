@@ -1,7 +1,7 @@
 {
   "name": "esteah",
   "version": "1.0.0",
-  "description": "election survey tool",
+  "description": "buying esteah tool",
   "main": "index.js",
   "scripts": {
     "test": "test"
